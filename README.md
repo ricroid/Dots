@@ -35,6 +35,13 @@ var image_src = "img/my_image.jpg",
         width: 500,
         height: 300,
         amount: 0.9,
-        tolerance:0.5,
+        tolerance: 0.5,
         rgba: [130, 177, 30, 1]
     });
+```
+
+---
+
+### Demo
+
+[Watch the script in action](https://jsfiddle.net/ricroid/g15jokk8/)
