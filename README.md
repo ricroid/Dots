@@ -19,7 +19,7 @@ new Dots(image_src, container [,options]);
 Required:
 * **image_src:** Source of the image, that would be a link or a base64 source.
 * **container:** The DOM container for the canvas element.
-* 
+
 Optional:
 * **options:** An object of properties and values to pass to the method.
   *  **width** (Default: **Image width**): An integer value that define the width of the canvas.
